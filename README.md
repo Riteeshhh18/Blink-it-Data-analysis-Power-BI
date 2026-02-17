@@ -68,17 +68,11 @@ The dataset includes:
 Example:
 
 ```
-/images/dashboard-overview.png
+<img width="1472" height="799" alt="image" src="https://github.com/user-attachments/assets/1635cb1c-2b53-43b8-93b1-1df30975b234" />
+
 ```
 
 ---
-
-##  How to Use
-
-1. Download the project files.
-2. Open the dashboard file in Power BI / Tableau / Excel.
-3. Use filters to explore insights.
-4. Analyze trends and performance metrics.
 
 ---
 
