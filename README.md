@@ -63,12 +63,10 @@ The dataset includes:
 
 ##  Dashboard Preview
 
-(Add screenshots of your dashboard here)
-
-Example:
+<img width="1472" height="799" alt="Screenshot 2026-02-17 105737" src="https://github.com/user-attachments/assets/af7da5a2-1eda-41e8-8122-c2a2d6d8b7e6" />
 
 ```
-<img width="1472" height="799" alt="image" src="https://github.com/user-attachments/assets/1635cb1c-2b53-43b8-93b1-1df30975b234" />
+
 
 ```
 
