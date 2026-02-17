@@ -1,4 +1,4 @@
-# Blink-it-Data-analysis-Power-BI
+# Blink-it-Data-analysis-with-Dashboard-Power-BI
 
 #  Blinkit Dashboard
 
